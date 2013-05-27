@@ -6,7 +6,8 @@
     </head>
     <body>
         <?php
-        // put your code here
+        // put echoyour code here
+        echo "azoul";
         ?>
     </body>
 </html>
